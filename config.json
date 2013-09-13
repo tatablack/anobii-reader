@@ -12,7 +12,7 @@
     },
 
     "output": {
-        "dbPath": "anobii_export.db",
+        "dbPath": "anobii_export.json",
         "csvPath": "anobii_export.csv"
     },
 

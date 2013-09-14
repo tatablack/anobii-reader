@@ -3,7 +3,7 @@
         "base": "http://www.anobii.com",
         "login": "https://www.anobii.com/NewaNobii/aNobiiHome/live/account/login-handler",
         "edit": "/book_edit_ajax?page=book&fromShelf=1&productId=",
-        "shelf": "/book_shelf_public_ajax?personId=0196ccff6e003413e2&shelfView=simple_list_view&sort=1&filter=filter_progress&selected=0&page=%PAGE%&rows=3&public=0&product=1"
+        "shelf": "/book_shelf_public_ajax?personId=%PERSON_ID%&shelfView=simple_list_view&sort=1&filter=filter_progress&selected=0&page=%PAGE%&rows=3&public=0&product=1"
     },
 
     "requestConfig": {
